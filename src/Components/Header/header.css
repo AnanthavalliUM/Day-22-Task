@@ -1,0 +1,42 @@
+.header{
+    height: 85%;
+    width: 100%;
+    background-image: url("../Assests/Images/WallpaperDog-10867042.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.header-row{
+    display: flex;
+    flex-wrap: wrap;
+}
+button{
+    background-color:rgb(47, 47, 231);
+    height:40px;
+    width:100px;
+    color: #d8d7fa;
+    border-radius: 10px;
+
+}
+.row{
+margin: auto;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+h1{
+    color:white;
+    font-size: 40px;
+}
+input{
+    height:40px;
+    width:300px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
